@@ -1,0 +1,25 @@
+
+  th{
+    padding: 10px;
+    text-align: center;
+  }
+  td {
+    padding: 10px;
+    text-align: left;
+  }
+  table {
+    box-align:center ;
+    background-color: lightgreen;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 250px;
+    border-style: solid;
+    border-radius: 10px;
+ 
+    
+  }
+  body{
+    background-image: url(https://cdn.pixabay.com/photo/2017/05/03/11/45/phone-2280940_960_720.jpg) ;
+    background-repeat:no-repeat;
+    background-size: 1400px 720px ;
+  }
