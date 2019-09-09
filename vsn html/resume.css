@@ -1,5 +1,5 @@
-
-th,td {
+th,
+td {
   border: 1px solid black;
   border-collapse: collapse;
 }
@@ -12,4 +12,20 @@ table#t01 {
   background-color: #f1f1c1;
   border: 1px solid black;
   border-collapse: collapse;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#name {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+img {
+  border-radius: 100px;
+}
+.head {
+  text-align: center;
+}
+table#t02 {
+  background-color: #f1f1c1;
 }

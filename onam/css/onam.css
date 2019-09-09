@@ -1,0 +1,36 @@
+* {
+  margin: 0px;
+}
+body {
+  height: 100vh;
+  overflow: hidden;
+  width: 768px;
+  height: 1879px;
+}
+.bg {
+  width: 768px;
+  height: 1879px;
+  background-color: #03a9f4;
+}
+p {
+  color: white;
+  margin-top: 20px;
+  display: inline-block;
+  width: 548px;
+  height: 29;
+  font-size: 20px;
+  letter-spacing: 0.21px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  font-family: "Rammetto One", cursive;
+}
+img {
+  display: inline-block;
+}
+#brand {
+  width: 136px;
+  height: 27px;
+  object-fit: contain;
+}
