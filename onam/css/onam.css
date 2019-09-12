@@ -9,7 +9,10 @@
   text-align: center;
   min-height: 100vh;
 }
-
+.vl {
+  border-left: 2px solid white;
+  height: 30px;
+}
 #brand {
   float: right;
   color: white;
