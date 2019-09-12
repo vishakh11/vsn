@@ -54,6 +54,7 @@ a {
   font-size: 1.25rem;
   margin: 12px 24px;
   text-decoration: none;
+  margin: 0;
 }
 
 a:hover {
